@@ -10,4 +10,4 @@ Algorithm, for sorting a list. In python...can be done on java as well..Any prog
 (the algorithm, uses a min() function and remove(), on a list.
 Problem is that, for some languages (e.g c), we cannot resize an array..meaning, there is no direct way, to "shrink" an array.
 
-The file is minSort.py, and the function is minSort(l)...it receives a list as input, and sorts it.
+The file is minSort.py, and the function is minSort()...it receives a list as input, and sorts it.
