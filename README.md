@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-![displayInfo](images/info.png)
-=======
-
-## <span align="center" style="color: red;"> License</span>
+## License
  For Linux and academic research, this algorithm can be used freely, you can do anything to it or relate to it, if using linux, 
 or academic research.
 For commercial usage, you need to contact me. 
@@ -10,10 +6,10 @@ For commercial usage, you need to contact me.
 <br>
 andrealbergaria@gmail.com
 
-## <span align="center" style="color:red;">MinSort</span>
+## MinSort
 Algorithm, for sorting a list. In python...can be done on java as well..Any programming language , that has support to list
 (the algorithm, uses a min() function and remove(), on a list.
 Problem is that, for some languages (e.g c), we cannot resize an array..meaning, there is no direct way, to "shrink" an array.
 
 The file is minSort.py, and the function is minSort()...it receives a list as input, and sorts it.
->>>>>>> eb1b84dc6cef1f7c51ecc9a4ec0ed5aa7c52d0ea
+
