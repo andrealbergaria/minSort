@@ -1,4 +1,4 @@
-<div align="center" style="font-size:23pt"> License</div>
+<div align="center" style="font-size:23pt;font-color:red"> License</div>
  For Linux and academic research, this algorithm can be used freely, you can do anything to it or relate to it, if using linux, 
 or academic research.
 For commercial usage, you need to contact me. 
