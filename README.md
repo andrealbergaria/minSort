@@ -1,0 +1,2 @@
+# minSort
+algorthm for sorting
